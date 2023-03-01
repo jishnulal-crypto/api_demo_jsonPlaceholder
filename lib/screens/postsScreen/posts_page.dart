@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project/models/post_model.dart';
-import 'package:project/screens/postsScreen/posts_provider.dart';
+import 'package:project/screens/postsscreen/posts_provider.dart';
 import 'package:provider/provider.dart';
 
 class PostScreen extends StatelessWidget {
